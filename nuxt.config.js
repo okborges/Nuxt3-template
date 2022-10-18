@@ -1,7 +1,8 @@
 export default {
+  ssr: false,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'petvillage',
+    title: 'template',
     htmlAttrs: {
       lang: 'pt-br',
     },
@@ -37,4 +38,4 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
-};
+}

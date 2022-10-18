@@ -1,11 +1,16 @@
 <template>
-  <TheHeader />
+  <div>
+    <h1>teste</h1>
+  </div>
 </template>
 
 <script>
-import TheHeader from '~/components/TheHeader.vue';
-export default {
-  name: 'IndexPage',
-  components: { TheHeader },
-};
+export default {};
 </script>
+
+<style lang="scss" scoped>
+h1 {
+  color: aqua;
+  background-color: red;
+}
+</style>
