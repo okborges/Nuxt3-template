@@ -1,16 +1,9 @@
 <template>
-  <div>
-    <h1>teste</h1>
-  </div>
+  <Tutorial />
 </template>
 
 <script>
-export default {};
-</script>
-
-<style lang="scss" scoped>
-h1 {
-  color: aqua;
-  background-color: red;
+export default {
+  name: 'IndexPage',
 }
-</style>
+</script>
