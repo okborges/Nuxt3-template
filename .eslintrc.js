@@ -12,7 +12,6 @@ module.exports = {
     '@nuxtjs',
     'plugin:nuxt/recommended',
     'prettier',
-    'plugin:prettier-vue/recommended',
   ],
   plugins: [],
   // add your custom rules here
