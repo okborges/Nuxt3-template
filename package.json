@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "template-nuxt3-okborges",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -14,7 +14,6 @@
     "eslint": "^8.42.0",
     "eslint-plugin-vue": "^9.14.1",
     "nuxt": "^3.5.2",
-    "prettier": "2.8.8",
     "sass": "^1.62.1",
     "sass-loader": "^13.3.1"
   }

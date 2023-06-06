@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <script setup>
 import TheHeader from '@/components/TheHeader.vue';
 </script>
