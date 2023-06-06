@@ -1,4 +1,5 @@
 {
+  "name": "nuxt-app",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -8,10 +9,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "nuxt": "3.0.0",
-    "postcss": "^8.4.20",
-    "sass": "^1.57.1",
-    "tailwindcss": "^3.2.4"
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "nuxt": "^3.5.2",
+    "prettier": "2.8.8",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.1"
   }
 }
